@@ -1,1 +1,5 @@
 /OLD
+
+*.pyc
+
+settings.json
